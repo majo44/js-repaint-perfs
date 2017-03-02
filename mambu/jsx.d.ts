@@ -1,0 +1,1 @@
+import 'wk-jsx-to-idom/jsx';
